@@ -42,3 +42,4 @@ public class StaticProxy {
         proxyClothFactory.produceCloth();
     }
 }
+//1111111111111111111111111
